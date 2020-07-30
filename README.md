@@ -2,7 +2,7 @@
 Projects done during Data Science course in Yandex.Praktikum.
 
 ## The main tasks:
-- Structuring and analyzin large amounts of data, 
+- Structuring and analyzing large amounts of data
 - Applying machine learning to predict events and detect non-obvious patterns
 - Helping to create and improve products in business, industry and science
 

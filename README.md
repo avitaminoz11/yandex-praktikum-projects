@@ -1,5 +1,5 @@
 # yandex-praktikum-projects
-The projects which have been done during Data Science course in Yandex.Praktikum.
+Projects done during Data Science course in Yandex.Praktikum.
 
 ## The main tasks:
 - Structuring and analyzin large amounts of data, 
